@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 09e34ff6811fcea87a0bec80d5b4e9e501a57435 abdallahbe33 <abdallahbeida2005@gmail.com> 1795390175 +0200	commit (initial): Initial state
+09e34ff6811fcea87a0bec80d5b4e9e501a57435 9c7acf9d2861f9033cdaa0bd1ab2dbb81f7af88c abdallahbe33 <abdallahbeida2005@gmail.com> 1795390196 +0200	commit: Remove unused file
+9c7acf9d2861f9033cdaa0bd1ab2dbb81f7af88c 10c6e7d4700b79d5a5c111a4c1d268028c22b4c6 abdallahbe33 <abdallahbeida2005@gmail.com> 1795390205 +0200	commit: Add new feature
+10c6e7d4700b79d5a5c111a4c1d268028c22b4c6 c85f8b443d0c88dd8fbc40bb37ba7e6dd6e09507 abdallahbe33 <abdallahbeida2005@gmail.com> 1795390430 +0200	commit: Restore file_b and keep progress on file_a
