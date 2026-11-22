@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 09405f8da9449c62fb4972307a3d12fc655bed29 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389806 +0200	commit (initial): Add hello.txt
+09405f8da9449c62fb4972307a3d12fc655bed29 09405f8da9449c62fb4972307a3d12fc655bed29 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	checkout: moving from main to edit-a
+09405f8da9449c62fb4972307a3d12fc655bed29 553b9b9e8fe1c1104f729f945e8e900a90e03e69 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	commit: Change to Alice
+553b9b9e8fe1c1104f729f945e8e900a90e03e69 09405f8da9449c62fb4972307a3d12fc655bed29 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	checkout: moving from edit-a to main
+09405f8da9449c62fb4972307a3d12fc655bed29 09405f8da9449c62fb4972307a3d12fc655bed29 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	checkout: moving from main to edit-b
+09405f8da9449c62fb4972307a3d12fc655bed29 a93b23d8d7b9b763eaa7aee9949cdf3b4fb84b57 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	commit: Change to Bob
+a93b23d8d7b9b763eaa7aee9949cdf3b4fb84b57 09405f8da9449c62fb4972307a3d12fc655bed29 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	checkout: moving from edit-b to main
+09405f8da9449c62fb4972307a3d12fc655bed29 553b9b9e8fe1c1104f729f945e8e900a90e03e69 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389846 +0200	merge edit-a: Fast-forward
+553b9b9e8fe1c1104f729f945e8e900a90e03e69 553b9b9e8fe1c1104f729f945e8e900a90e03e69 abdallahbe33 <abdallahbeida2005@gmail.com> 1795389915 +0200	reset: moving to HEAD
